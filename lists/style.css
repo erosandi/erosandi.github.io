@@ -1,0 +1,26 @@
+main{
+  width:500px;
+}
+
+h1{
+  color:red;
+}
+
+h2{
+  color:#74276d;
+}
+
+ul{
+  list-style-type: square;
+}
+
+.purple{
+  
+  color:#af3ed7;
+}
+
+ol{
+  text-decoration: underline;
+  text-decoration-color: #af3ed7;
+  list-style-type: upper-roman;
+}
